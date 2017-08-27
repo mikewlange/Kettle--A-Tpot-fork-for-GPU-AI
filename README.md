@@ -1,6 +1,12 @@
-WILL UPDATE WITH NEW CODE SOON. 
+FULL UPDATE SOON.  
 
-I love TPOT conceptualy, love it!. In the financial world, all we do is write algos to write algos. So it's nice to see generic use w/ sklearn. Well done! But gotta rewriate the logic (in Lua/Python) and GPU this mofo (of course) and not limit it to sklearn. On the way! 
+I love TPOT conceptualy, love it! In the financial world, all we do is write algos to write algos. So it's nice to see genetic (code) use w/ sklearn. Well done. 
+
+Rewriting the logic (in Lua/Python) and GPU this mofo (of course) and not limit it to sklearn to make it commercially usable.  
+
+All code will be in a new repo. Just thanking [Computational Genetics Lab](http://epistasis.org) with funding from the [NIH](http://www.nih.gov) for the kick in the arse to do it right.  
+
+Don't worry practical AI engineers. Code is on the way! 
 
 Master status: [![Master Build Status](https://travis-ci.org/rhiever/tpot.svg?branch=master)](https://travis-ci.org/rhiever/tpot)
 [![Master Code Health](https://landscape.io/github/rhiever/tpot/master/landscape.svg?style=flat)](https://landscape.io/github/rhiever/tpot/master)
