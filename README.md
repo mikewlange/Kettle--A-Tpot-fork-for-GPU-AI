@@ -1,6 +1,6 @@
 FULL UPDATE SOON.  
 
-I love TPOT conceptualy, love it! In the financial world, all we do is write algos to write algos. So it's nice to see genetic (code) use w/ sklearn. Well done. 
+I love TPOT conceptualy, love it! In the ai world, all we do is write algos to write algos. So it's nice to see genetic (code) use w/ sklearn. Well done. 
 
 Rewriting the logic (in Lua/Python) and GPU this mofo (of course) and not limit it to sklearn to make it commercially usable.  
 
