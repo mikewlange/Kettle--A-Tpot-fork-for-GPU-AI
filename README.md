@@ -1,5 +1,7 @@
 WILL UPDATE WITH NEW CODE SOON. 
 
+I love TPOT conceptualy, love it!. In the financial world, all we do is write algos to write algos. So it's nice to see generic use w/ sklearn. Well done! But gotta rewriate the logic (in Lua/Python) and GPU this mofo (of course) and not limit it to sklearn. On the way! 
+
 Master status: [![Master Build Status](https://travis-ci.org/rhiever/tpot.svg?branch=master)](https://travis-ci.org/rhiever/tpot)
 [![Master Code Health](https://landscape.io/github/rhiever/tpot/master/landscape.svg?style=flat)](https://landscape.io/github/rhiever/tpot/master)
 [![Master Coverage Status](https://coveralls.io/repos/rhiever/tpot/badge.svg?branch=master&service=github)](https://coveralls.io/github/rhiever/tpot?branch=master)
