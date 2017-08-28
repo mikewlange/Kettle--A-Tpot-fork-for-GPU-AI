@@ -1,6 +1,6 @@
 Let a machine decide your topology. FULL UPDATE SOON. 
 
-Machine Learning is data, nothing more, nothing less. Most of the ML code to be written using binary computeres is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
+Machine Learning is data, nothing more, nothing less. Most of the ML code to be written using binary computation is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
 
 Nevertheless, if you're writing an ML system from scratch, and people do, thank god for us, you will not be reading this nor need to. 
 
