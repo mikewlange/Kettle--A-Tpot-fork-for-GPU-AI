@@ -1,14 +1,26 @@
-FULL UPDATE SOON.  
+Let a machine decide your topology. FULL UPDATE SOON. 
 
-I love TPOT conceptualy, love it! In the ai world, all we do is write algos to write algos. So it's nice to see genetic (code) use w/ sklearn. Well done. 
+Machine Learning is data, nothing more, nothing less. Most of the ML code to be written using binary computeres is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
 
-Rewriting the logic (in Lua/Python) to take advantage of CUDA and NVIDIA GPUs (have too). And abstract the code to not limit it literally to sklearn.
+Nevertheless, if you're writing an ML system from scratch, and people do, thank god for us, you will not be reading this nor need to. 
 
-All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
+For the rest of us, keep it simple stupid. https://github.com/mikewlange/cheatsheets-ai-fork 
+
+I love TPOT conceptualy, love it! it's an old hat for most though. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
+
+But it's nice to see a more generic implimentation of a genetic algo w/ sklearn. Well done. 
+
+But this old hat, needs new tricks. Gotta take advantage of CUDA and NVIDIA GPUs. Just have too so you can let it do it's work for days, not years.   
+
+The datasets needed are a bit more plug and play and not specific to sklearn. But never forget, Garbage in Gabage out. machine Learning is about the data. 
+
+All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
 
 Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
 
 Don't worry practical AI engineers. Code is on the way! 
+
+--------------
 
 Master status: [![Master Build Status](https://travis-ci.org/rhiever/tpot.svg?branch=master)](https://travis-ci.org/rhiever/tpot)
 [![Master Code Health](https://landscape.io/github/rhiever/tpot/master/landscape.svg?style=flat)](https://landscape.io/github/rhiever/tpot/master)
