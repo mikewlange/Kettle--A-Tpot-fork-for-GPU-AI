@@ -1,8 +1,8 @@
-FULL TendorFlow Support On The Way! 
+FULL TensorFlow Support On The Way! 
 
 Let a machine decide your topology.  
 
-Adding full TendorFlow support that's built agaist Cuda and CuDNN for use with NVIDIA GPU's (CUDA). For better support of defining a deep learning pipeline and more low level genetics.  
+Adding full TensorFlow support that's built agaist Cuda and CuDNN for use with NVIDIA GPU's (CUDA). For better support of defining a deep learning pipeline and more low level genetics.  
 
 scikit-learn, of course, will still be used when it's efeciant too. I.E in epoch 2 a GPU based CDNN is not the one so post that event use the simple skikit-learn templates. 
 
