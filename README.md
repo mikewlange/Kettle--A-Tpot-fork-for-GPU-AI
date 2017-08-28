@@ -16,7 +16,7 @@ But this old dog needs some new tricks for real use. Must take advantage of CUDA
 
 The datasets needed are a bit more plug and play and not specific to sklearn. Forgiving. 
 
-But never forget, Garbage in Gabage out. Machine Learning is 95% about the data in and expexted out. 
+But never forget, Garbage in Gabage out. Machine Learning is 95% about the data in and expected out. 
 
 All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
 
