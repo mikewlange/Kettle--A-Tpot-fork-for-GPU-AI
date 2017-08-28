@@ -12,11 +12,11 @@ I love tpot conceptualy! it's an old hat for most though. Especially financial f
 
 But it's nice to see a more generic implimentation of a genetic algo w/ sklearn. Well done. 
 
-But this old dog needs some new tricks for real use. Must take advantage of CUDA/Torch framework and NVIDIA GPUs. So you can let it do it's work for days, not years. 
+But this old dog needs some new tricks for real use. Must take advantage of CUDA/Torch framework and NVIDIA GPUs. So you can let it do its work for days, not years. 
 
 The datasets needed are a bit more plug and play and not specific to sklearn. Forgiving. 
 
-But never forget, Garbage in Gabage out. Machine Learning is 95% about the data in and expected out. 
+But never forget, Garbage in Gabage out. 
 
 All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
 
