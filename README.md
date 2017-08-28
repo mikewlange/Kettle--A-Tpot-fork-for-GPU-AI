@@ -4,9 +4,9 @@ Let a machine decide your topology.
 
 Adding full TensorFlow support that's built agaist Cuda and CuDNN for use with NVIDIA GPU's (CUDA). For better support of defining a deep learning pipeline and more low level genetics.  
 
-scikit-learn, of course, will still be used when it's efeciant too. I.E in epoch 2 a GPU based CDNN is not the one so post that event use the simple skikit-learn templates. 
+scikit-learn, of course, will still be used when it's efficiant too. I.E in epoch 2 a GPU based CDNN is not the one so post that event use the simple skikit-learn templates. 
 
-Machine Learning is data, nothing more, nothing less. Most of the ML code to be written using binary computation is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
+Machine Learning is all about the data, rarely more, somtimes less. Most of the ML code to be written using binary computation is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
 
 Nevertheless, if you're writing an ML system from scratch, and people do, thank god for us, you will not be reading this nor need to. 
 
