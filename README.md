@@ -8,7 +8,7 @@ For the rest of us, keep it simple stupid.
 
 If you need to impiment a conceptually different network than listed here, https://github.com/mikewlange/cheatsheets-ai-fork stop reading - you know way too much for this and may get stupid by reading more.   
 
-I love tpot conceptualy! it's an old hat for most though. Especially finacial forcasting. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
+I love tpot conceptualy! it's an old hat for most though. Especially financial forcasting. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
 
 But it's nice to see a more generic implimentation of a genetic algo w/ sklearn. Well done. 
 
