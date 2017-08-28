@@ -1,4 +1,10 @@
-Let a machine decide your topology. FULL UPDATE SOON. 
+FULL TendorFlow Support On The Way! 
+
+Let a machine decide your topology.  
+
+Adding full TendorFlow support that's built agaist Cuda and CuDNN for use with NVIDIA GPU's (CUDA). For better support of defining a deep learning pipeline and more low level genetics.  
+
+scikit-learn, of course, will still be used when it's efeciant too. I.E in epoch 2 a GPU based CDNN is not the one so post that event use the simple skikit-learn templates. 
 
 Machine Learning is data, nothing more, nothing less. Most of the ML code to be written using binary computation is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
 
@@ -10,21 +16,12 @@ If you need to impiment a conceptually different network than listed here, https
 
 I love tpot conceptualy! it's an old hat for most though. Especially financial forcasting. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
 
-But it's nice to see a more generic implimentation of a genetic algo w/ sklearn. Well done. 
-
-But this old dog needs some new tricks for real use. Must take advantage of CUDA/Torch framework and NVIDIA GPUs. So you can let it do its work for days, not years. 
-
-The datasets needed are a bit more plug and play and not specific to sklearn. Forgiving. 
-
-But never forget, Garbage in Gabage out. 
-
-All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
-
-Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
-
-Don't worry practical AI engineers. Code is on the way! 
+But never forget, Garbage in Gabage out.   
 
 --------------
+
+
+Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
 
 Master status: [![Master Build Status](https://travis-ci.org/rhiever/tpot.svg?branch=master)](https://travis-ci.org/rhiever/tpot)
 [![Master Code Health](https://landscape.io/github/rhiever/tpot/master/landscape.svg?style=flat)](https://landscape.io/github/rhiever/tpot/master)
