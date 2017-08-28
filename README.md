@@ -4,15 +4,19 @@ Machine Learning is data, nothing more, nothing less. Most of the ML code to be 
 
 Nevertheless, if you're writing an ML system from scratch, and people do, thank god for us, you will not be reading this nor need to. 
 
-For the rest of us, keep it simple stupid. https://github.com/mikewlange/cheatsheets-ai-fork 
+For the rest of us, keep it simple stupid. 
 
-I love TPOT conceptualy, love it! it's an old hat for most though. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
+If you need to impiment a conceptually different network than listed here, https://github.com/mikewlange/cheatsheets-ai-fork stop reading - you know way too much for this and may get stupid by reading more.   
+
+I love tpot conceptualy! it's an old hat for most though. Especially finacial forcasting. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
 
 But it's nice to see a more generic implimentation of a genetic algo w/ sklearn. Well done. 
 
-But this old hat, needs new tricks. Gotta take advantage of CUDA and NVIDIA GPUs. Just have too so you can let it do it's work for days, not years.   
+But this old dog needs some new tricks for real use. Must take advantage of CUDA/Torch framework and NVIDIA GPUs. So you can let it do it's work for days, not years. 
 
-The datasets needed are a bit more plug and play and not specific to sklearn. But never forget, Garbage in Gabage out. machine Learning is about the data. 
+The datasets needed are a bit more plug and play and not specific to sklearn. Forgiving. 
+
+But never forget, Garbage in Gabage out. Machine Learning is 95% about the data in and expexted out. 
 
 All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
 
