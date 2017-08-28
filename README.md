@@ -2,9 +2,9 @@ FULL UPDATE SOON.
 
 I love TPOT conceptualy, love it! In the ai world, all we do is write algos to write algos. So it's nice to see genetic (code) use w/ sklearn. Well done. 
 
-Rewriting the logic (in Lua/Python) to GPU this mofo (of course) and not limit it literally to sklearn. Gotta make it commercially usable. For me. But you can use it too. For whatever. Put your name on it.  
+Rewriting the logic (in Lua/Python) to take advantage of CUDA and NVIDIA GPUs (have too). And abstract the code to not limit it literally to sklearn.
 
-All code will be in a new repo. 
+All code will be in a new repo under a new name not to confuse as they will be absolutly different code bases. However, respect is due when you use an idea. Always.   
 
 Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
 
