@@ -6,7 +6,7 @@ Rewriting the logic (in Lua/Python) to GPU this mofo (of course) and not limit i
 
 All code will be in a new repo. 
 
-Just thanking [Computational Genetics Lab](http://epistasis.org) with funding from the [NIH](http://www.nih.gov) for the kick in the arse to do it right.  
+Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
 
 Don't worry practical AI engineers. Code is on the way! 
 
