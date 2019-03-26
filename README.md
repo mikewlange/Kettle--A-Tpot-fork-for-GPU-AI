@@ -1,4 +1,9 @@
-###Will be incorporating https://github.com/h2oai/h2o4gpu as is inherits all the scikit-learn algorithms. 
+#### Will be incorporating https://github.com/h2oai/h2o4gpu as it inherits all the scikit-learn algorithms. 
+
+H2O4GPU inherits all the existing scikit-learn algorithms and falls back to CPU algorithms when the GPU algorithm does not support an important existing scikit-learn class option. 
+
+----
+
 
 Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
 
