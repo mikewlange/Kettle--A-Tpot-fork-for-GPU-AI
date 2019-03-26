@@ -1,25 +1,4 @@
-FULL TensorFlow Support On The Way! 
-
-Let a machine decide your topology.  
-
-Adding full TensorFlow support that's built agaist Cuda and CuDNN for use with NVIDIA GPU's (CUDA). For better support of defining a deep learning pipeline and more low level genetics.  
-
-scikit-learn, of course, will still be used when it's efficiant too. I.E in epoch 2 a GPU based CDNN is not the one so post that event use the simple skikit-learn templates. 
-
-Machine Learning is all about the data, rarely more, somtimes less. Most of the ML code to be written using binary computation is out there. Don't reinvent the wheel if you don't know how the wheel works. just change it a bit for your needs.  
-
-Nevertheless, if you're writing an ML system from scratch, and people do, thank god for us, you will not be reading this nor need to. 
-
-For the rest of us, keep it simple stupid. 
-
-If you need to impiment a conceptually different network than listed here, https://github.com/mikewlange/cheatsheets-ai-fork stop reading - you know way too much for this and may get stupid by reading more.   
-
-I love tpot conceptualy! it's an old hat for most though. Especially financial forcasting. In the machine learning world, all we do is write algos to create algos. As a code monkey at a hedge fund, you'd be fired if you decided with your brain an SVM is better than a bayesian classifier. Right or wrong.  
-
-But never forget, Garbage in Gabage out.   
-
---------------
-
+Will be incorporating https://github.com/h2oai/h2o4gpu as is inherits all the scikit-learn algorithms. 
 
 Thanks to [Computational Genetics Lab](http://epistasis.org) for the original code with funding from the [NIH](http://www.nih.gov). Cheers. 
 
